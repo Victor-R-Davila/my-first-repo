@@ -1,2 +1,2 @@
-Welcome to My First Repo
-Learning Git is going well so far.
+Welcome to my First Repo
+Learning git is going well so far.
