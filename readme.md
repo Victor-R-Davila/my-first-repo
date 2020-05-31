@@ -5,7 +5,8 @@
 I work as an anesthesiologist in Ohio.
 ### Student
 I am trying to learn how to **code**.
-####Coding languages I am trying to learn
+###Coding languages I am trying to learn:
+
 -R
 -Python
 -Bash
