@@ -1,28 +1,17 @@
-# This is a large heading
+# Victor R. Davila, M.D.
 
-## This is a smaller heading
+## Basics
+### Physician
+I work as an anesthesiologist in Ohio.
+### Student
+I am trying to learn how to **code**.
+### Coding languages I am trying to learn:
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+- R
+- Python
+- Bash
+- C (eventually, I am trying to learn about *arduinos* too)
 
-- This is
-- an unordered
-- list
+### A quote:
+>Do today what other won't and tomorrow you will do what other can't.
 
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
